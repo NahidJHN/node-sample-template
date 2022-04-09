@@ -1,0 +1,9 @@
+module.exports.authValidation = require('./auth.validation');
+module.exports.userValidation = require('./user.validation');
+module.exports.supplierValidation = require("./supplier.validation")
+module.exports.productValidation = require('./product.validation')
+module.exports.managerValidation = require("./manager.vaildation")
+module.exports.ownerValidation=require('./owner.validation')
+module.exports.productValidation = require("./product.validation")
+module.exports.stockValidation = require('./stock.validation')
+module.exports.catagoryValidation=require('./catagory.validation')
